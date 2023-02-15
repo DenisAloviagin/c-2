@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\bin\Debug\net7.0\task15.exe
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\bin\Debug\net7.0\task15.deps.json
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\bin\Debug\net7.0\task15.runtimeconfig.json
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\bin\Debug\net7.0\task15.dll
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\bin\Debug\net7.0\task15.pdb
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.dll
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\refint\task15.dll
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.pdb
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\task15.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Обучение gb\C#2\task15\obj\Debug\net7.0\ref\task15.dll
